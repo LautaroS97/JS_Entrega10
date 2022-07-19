@@ -1,0 +1,6 @@
+[{"id":1,"nombre":"NARCISO","carta":"./img/narciso.png","puntosVitales":100,"puntosPoder":100,"ataqueUnoDaño":20,"ataqueUnoCosto":10,"ataqueDosDaño":40,"ataqueDosCosto":25,"defensaCosto":20},
+{"id":2,"nombre":"LAUTARO","carta":"./img/lautaro.png","puntosVitales":100,"puntosPoder":100,"ataqueUnoDaño":20,"ataqueUnoCosto":20,"ataqueDosCosto":10,"defensaCosto":10},
+{"id":3,"nombre":"CIRO","carta":"./img/ciro.png","puntosVitales":80,"puntosPoder":80,"ataqueUnoDaño":10,"ataqueUnoCosto":10,"ataqueDosDaño":25,"ataqueDosCosto":25,"defensaCosto":null},
+{"id":4,"nombre":"ALEK","carta":"./img/alek.png","puntosVitales":120,"puntosPoder":100,"ataqueUnoDaño":20,"ataqueUnoCosto":10,"ataqueDosCosto":25,"defensaCosto":20},
+{"id":5,"nombre":"MELTA","carta":"./img/melta.png","puntosVitales":80,"puntosPoder":120,"ataqueUnoDaño":25,"ataqueUnoCosto":20,"ataqueDosCosto":20,"defensaCosto":20,"habilidadPasiva":null},
+{"id":6,"nombre":"TOGO","carta":"./img/togo.png","puntosVitales":80,"puntosPoder":120,"ataqueUnoDaño":25,"ataqueUnoCosto":25,"ataqueDosDaño":50,"ataqueDosCosto":40,"defensaCosto":25}]
